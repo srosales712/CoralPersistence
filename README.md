@@ -14,7 +14,7 @@ Available at [https://doi.org/10.1038/s43247-024-01816-7](https://doi.org/10.103
 ## 📁 Repository Structure
 
 - **`/Data/`**  
-  Contains metadata files including and R object files used in the analysis::
+  Contains metadata files and R object files used in the analysis:
   1. POR_combo_meta.csv (master file)
   2. POR_meta_apal_live.csv (live and dead counts of outplants)
   3. POR_meta_nutrients.csv (nutrient data)
