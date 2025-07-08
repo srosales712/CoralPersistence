@@ -21,7 +21,7 @@ Available at [https://doi.org/10.1038/s43247-024-01816-7](https://doi.org/10.103
   4. POR_meta_sst_chla.csv, and chla_sst_outplant_stations.csv (sea surface temperature (SST) and chlorophyll-a (chl-a) data corresponding to sampling)
   5. sst_outplant_daily.csv (daily SST for 2019)
   6. chl_outplant_8day.csv (daily chl-a for 2019)
-R object files used in the analysis:
+  R object files used in the analysis:
   1. POR_counts_4_analysis.RData (ASV count table)
   2. POR_taxo_4_analysis.RData (taxa table)
   3. POR_sequence_4_analysis.RData (sequence table)
