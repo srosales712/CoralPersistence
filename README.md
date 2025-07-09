@@ -15,7 +15,7 @@ Available at [https://doi.org/10.1038/s43247-024-01816-7](https://doi.org/10.103
 
 - **`/Data/`**  
   Contains metadata files and R object files used in the analysis:
-  1. POR_combo_meta.csv (master file)
+  1. POR_combo_meta.csv (main metadata file)
   2. POR_meta_apal_live.csv (live and dead counts of outplants)
   3. POR_meta_nutrients.csv (nutrient data)
   4. POR_meta_sst_chla.csv, and chla_sst_outplant_stations.csv (sea surface temperature (SST) and chlorophyll-a (chl-a) data corresponding to sampling)
